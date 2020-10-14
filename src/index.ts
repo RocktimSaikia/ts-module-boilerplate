@@ -9,3 +9,7 @@ function unicornFun(input: string, {postfix = 'rainbows'}: {postfix?: string} = 
 }
 
 export default unicornFun;
+
+// For CommonJS default export support
+module.exports = unicornFun;
+module.exports.default = unicornFun;
