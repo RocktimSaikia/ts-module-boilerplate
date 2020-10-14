@@ -13,8 +13,3 @@ For javascript version of this module check [`sindresorhus/node-module-boilerpla
 - Use it as template by clickng the template button above.
 - Or just clone this repo and run `npm install` .
 - Start coding :rocket:
-
-
-## Support
-
-<a href="https://www.buymeacoffee.com/7BdaxfI"><img src="https://user-images.githubusercontent.com/33410545/95193575-a3b51b00-07f1-11eb-9bbb-90ea2e1018d7.png" height="60px"/></a>
