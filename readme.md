@@ -1,6 +1,6 @@
 # ts-module-boilerplate ![build](https://travis-ci.com/RocktimSaikia/ts-module-boilerplate.svg?branch=master) ![license](https://img.shields.io/github/license/rocktimsaikia/ts-module-boilerplate)
 
-> Typescript boilerplate to kickstart a Node.js module :unicorn:
+> Typescript boilerplate to kickstart a Node.js module
 
 For javascript version of this module check [`sindresorhus/node-module-boilerplate`](https://github.com/sindresorhus/node-module-boilerplate)
 
