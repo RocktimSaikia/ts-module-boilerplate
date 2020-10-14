@@ -23,6 +23,7 @@
 		"url": "https://rocktim.xyz"
 	},
 	"scripts": {
+		"prepack": "npm run build",
 		"build": "tsc",
 		"watch:build": "tsc --watch",
 		"test": "tsc && xo && ava",
