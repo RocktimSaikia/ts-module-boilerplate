@@ -28,6 +28,7 @@
 		"test": "xo && ava",
 		"watch:test": "ava --watch"
 	},
+	"dependencies": {},
 	"devDependencies": {
 		"@sindresorhus/tsconfig": "^0.7.0",
 		"@typescript-eslint/eslint-plugin": "^4.4.1",
