@@ -1,0 +1,55 @@
+{
+	"name": "ts-module-boilerplate",
+	"version": "0.0.0",
+	"description": "Typescript boilerplate to kickstart a Node.js module",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"files": [
+		"dist/**/*"
+	],
+	"keywords": [
+		"typescript",
+		"boilerplate",
+		"module",
+		"template",
+		"typescript-boilerplate",
+		"typescript-template"
+	],
+	"repository": "RocktimSaikia/ts-module-boilerplate",
+	"license": "MIT",
+	"author": {
+		"name": "Rocktim Saikia",
+		"email": "rocktimthedev@gmail.com",
+		"url": "https://rocktim.xyz"
+	},
+	"scripts": {
+		"build": "tsc",
+		"watch:build": "tsc --watch",
+		"test": "xo && ava",
+		"watch:test": "ava --watch"
+	},
+	"devDependencies": {
+		"@sindresorhus/tsconfig": "^0.7.0",
+		"@typescript-eslint/eslint-plugin": "^4.4.1",
+		"@typescript-eslint/parser": "^4.4.1",
+		"eslint-config-xo-typescript": "^0.33.0",
+		"typescript": "^4.0.3",
+		"ts-node": "^9.0.0",
+		"ava": "^3.13.0",
+		"xo": "^0.33.1"
+	},
+	"xo": {
+		"extends": "xo-typescript"
+	},
+	"ava": {
+		"extensions": [
+			"ts"
+		],
+		"require": [
+			"ts-node/register"
+		]
+	},
+	"engines": {
+		"node": ">=12"
+	}
+}
