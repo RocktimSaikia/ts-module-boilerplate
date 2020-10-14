@@ -25,7 +25,7 @@
 	"scripts": {
 		"build": "tsc",
 		"watch:build": "tsc --watch",
-		"test": "xo && ava",
+		"test": "tsc && xo && ava",
 		"watch:test": "ava --watch"
 	},
 	"engines": {
