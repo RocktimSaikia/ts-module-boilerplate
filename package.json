@@ -1,5 +1,5 @@
 {
-	"name": "ts-module-boilerplate",
+	"name": "my-typescript-module",
 	"version": "0.0.0",
 	"description": "Typescript boilerplate to kickstart a Node.js module",
 	"main": "dist/index.js",
@@ -16,12 +16,12 @@
 		"typescript-boilerplate",
 		"typescript-template"
 	],
-	"repository": "RocktimSaikia/ts-module-boilerplate",
+	"repository": "YOUR-GITHUB-NAME/my-typescript-module",
 	"license": "MIT",
 	"author": {
-		"name": "Rocktim Saikia",
-		"email": "rocktimthedev@gmail.com",
-		"url": "https://rocktim.xyz"
+		"name": "YOUR NAME",
+		"email": "YOUR EMAIL",
+		"url": "YOUR WEBSITE"
 	},
 	"scripts": {
 		"prepack": "npm run build",
