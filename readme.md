@@ -2,10 +2,12 @@
 
 > Typescript boilerplate to kickstart a Node.js module :unicorn:
 
+For javascript version of this module check [`sindresorhus/node-module-boilerplate`](https://github.com/sindresorhus/node-module-boilerplate)
+
 ## :sparkles: Highlights
 - Active and maintained.
 - Always upto-date with the latest Typescript version.
-- uses [`ava`]() and [`xo`]() for simplifing the testing/linitng process.
+- uses [`ava`](https://github.com/avajs/ava/) and [`xo`](https://github.com/xojs/xo/) for simplifying the testing/linitng process.
 
 ## Getting started
 - Use it as template by clikcing the template button in above.
