@@ -10,7 +10,7 @@ For javascript version of this module check [`sindresorhus/node-module-boilerpla
 - uses [`ava`](https://github.com/avajs/ava/) and [`xo`](https://github.com/xojs/xo/) for simplifying the testing/linitng process.
 
 ## Getting started
-- Use it as template by clikcing the template button in above.
+- Use it as template by clickng the template button above.
 - Or just clone this repo and run `npm install` .
 - Start coding :rocket:
 
